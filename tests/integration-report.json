@@ -1,0 +1,201 @@
+{
+  "schema_version": 1,
+  "week": "2026-11-22",
+  "generated_at": "2026-11-24T17:00:00+08:00",
+  "timezone": "Asia/Taipei",
+  "games": [
+    {
+      "name": "原神",
+      "sections": {
+        "version": "7.2「壞滅肇始之時」11/4 更新，下版維護時間待查。[1]",
+        "ending_events": "11/24 17:59 第一期祈願及角色試用截止，完成試用關卡可領對應獎勵。[2]",
+        "banners": "11/4 更新後至 11/24 17:59，米提亞、芙寧娜及秘星典諭、靜水流湧之輝。[2] 11/24 18:00–12/15 14:59，茲白、Linnea，武器朏魄含光、Golden Frostbound Oath，另有納塔集錄祈願。[3]",
+        "upcoming": "11/24 起二期角色試用。全域鎮衛、魔神任務及區域探索限時獎勵仍開放，個別截止待查。[3][4]",
+        "login": "本期限定簽到或免費抽待查。",
+        "free_rewards": "11/4 06:00 前冒險等階達 5 級可領維護原石 300，至 7.2 結束前且須留意信件期限。[1]",
+        "materials": "新角突破、天賦總量及預刷來源待查。",
+        "changes": "7.2 更新及系統改善見官方施工筆記。[5]",
+        "codes": "有效碼及期限待查。官方兌換入口見來源。[6]",
+        "entries": "遊戲內祈願左下角查看詳情，活動快報見官方公告。[3][4]"
+      },
+      "sources": [
+        {
+          "title": "7.2 維護公告",
+          "url": "https://genshin.hoyoverse.com/zh-tw/news/detail/167131"
+        },
+        {
+          "title": "7.2 第一期祈願",
+          "url": "https://genshin.hoyoverse.com/zh-tw/news/detail/167139"
+        },
+        {
+          "title": "7.2 第二期祈願",
+          "url": "https://genshin.hoyoverse.com/zh-tw/news/detail/167370"
+        },
+        {
+          "title": "7.2 第二期活動",
+          "url": "https://genshin.hoyoverse.com/zh-tw/news/detail/167376"
+        },
+        {
+          "title": "7.2 施工筆記",
+          "url": "https://genshin.hoyoverse.com/zh-tw/news/detail/167098"
+        },
+        {
+          "title": "官方兌換",
+          "url": "https://genshin.hoyoverse.com/zh-tw/gift"
+        }
+      ]
+    },
+    {
+      "name": "絕區零",
+      "sections": {
+        "version": "現行 3.3 至 12/2 06:00，3.4 同日上線，維護完整時段待查。[1][3]",
+        "ending_events": "11/30 03:59 前完成漂流藝術修復與烏鴉推理活動，參加條件及獎勵細項見活動公告。[1][4] 11/25 04:00–11/30 03:59，解鎖實戰模擬室後完成挑戰可得雙倍獎勵。[5]",
+        "banners": "11/11 12:00–12/1 14:59，Severian、Norma 與音擎 Incarcerating Grip、Chief Sidekick。[2]",
+        "upcoming": "12/2 新版推出 Sunbringer，後續活動詳細時段待查。[3]",
+        "login": "至 12/1 03:59，累登 7 天可各領加密母帶 10、邦布券 10。3.4 公告另有累登母帶 10、邦布券 10、菲林及帕姆飾品。[1][3]",
+        "free_rewards": "3.3 完成天使應援作戰全部任務模式關卡領服裝，至 11/30 03:59。3.4 登入贈 S 級 Robin 及養成資源，活動贈帕姆邦布，詳細期限待查。[1][3]",
+        "materials": "Robin 含推薦主詞條驅動盤一套，其他材料與數量待查。[3]",
+        "changes": "3.3 優化舊劇情與戰鬥的英、日、韓配音。[1]",
+        "codes": "有效碼與期限待查。官方兌換入口見來源。[6]",
+        "entries": "登入後開啟活動頁，漂流藝術到 Booastrum 與活動邦布對話。[1][4]"
+      },
+      "sources": [
+        {
+          "title": "3.3 更新公告",
+          "url": "https://zenless.hoyoverse.com/en-us/news/166963"
+        },
+        {
+          "title": "3.3 後半調頻",
+          "url": "https://zenless.hoyoverse.com/en-us/news/167269"
+        },
+        {
+          "title": "3.4 福利快報",
+          "url": "https://zenless.hoyoverse.com/en-us/news/167400?catchSpider=1%3FcatchSpider%3D1&page=world"
+        },
+        {
+          "title": "漂流藝術活動",
+          "url": "https://zenless.hoyoverse.com/m/en-us/news/167283"
+        },
+        {
+          "title": "實戰模擬雙倍",
+          "url": "https://www.hoyolab.com/article/47537269"
+        },
+        {
+          "title": "官方兌換",
+          "url": "https://zenless.hoyoverse.com/redemption"
+        }
+      ]
+    },
+    {
+      "name": "鳴潮",
+      "sections": {
+        "version": "現行 3.8，11/12 04:00–11:00 維護後上線。下版維護待查。[1]",
+        "ending_events": "本次查到的 3.8 公告中，最近的限時活動截止為 12/3 03:59 的方塊活動，七日內其他場次待查。[1]",
+        "banners": "3.8 上半自更新後至 12/3 09:59，Sigrika、Qiuyuan 與專武 Solsworn Ciphers、Emerald Sentence。下半 Lily、Lullaby 的完整卡池時段待查。[1][2]",
+        "upcoming": "12/3 10:00 開始物流委託及夢域戰鬥，12/7 04:00 開始限時登入。[1]",
+        "login": "3.8 七日登入至 12/21 03:59，獎勵數量待查。12/7 起另一期登入，截止時間為 12/21 03:59。[1]",
+        "free_rewards": "校園活動可拿名片及頭像，至 12/21 11:59。夢域戰鬥可拿稱號，至 12/21 03:59。[1]",
+        "materials": "Lily 所需材料總量、掉落與可預刷項目待查。可用共鳴者養成規劃查缺額。[1]",
+        "changes": "增設連戰模式，領獎後重開挑戰可略過載入。聲骸批量管理預設按稀有度排序。[1]",
+        "codes": "有效碼、獎勵與期限待查。",
+        "entries": "登入獎勵在遊戲活動頁，試用在 Ascendant Aces。[1][2]"
+      },
+      "sources": [
+        {
+          "title": "3.8 更新內容",
+          "url": "https://wutheringwaves.kurogames.com/en/main/news/detail/5783"
+        },
+        {
+          "title": "3.8 上半喚取",
+          "url": "https://wutheringwaves.kurogames.com/m/en/main/news/detail/5754"
+        }
+      ]
+    },
+    {
+      "name": "明日方舟：終末地",
+      "sections": {
+        "version": "現行 Sanctuary of Ink。亞洲服 11/25 06:00–12:00 維護，更新 Meeting You in the World o’Shrooms。[1][2]",
+        "ending_events": "11/25 06:00 前登入指南並完成創角，領嵌晶玉 1,000、折金票 10,000、初級作戰記錄類素材 8、武器強化素材 4。Argent Flow 試用同期結束，完成關卡可領嵌晶玉 100 等。[1][3][4]",
+        "banners": "Argent Flow 11/5 12:00 至 11/25 維護前。Lunar Calling 自 11/5 12:00 起，該期起算三檔特許尋訪後結束。新版尋訪和武器池公告見官方列表，個別起迄待查。[1][4][5][6]",
+        "upcoming": "11/25 更新後推出菌菇主題版本和新版協議空間挑戰。[1][7]",
+        "login": "Argent Flow 同期累簽 7 天領限定尋訪券 5，11/25 維護前結束。[1][4]",
+        "free_rewards": "創角並解鎖郵件可領感謝禮嵌晶玉 3,000，發送至新版本結束前，信件有效 30 天。[8]",
+        "materials": "新幹員養成總量及可預刷項目待查。新版能力矩陣優先顯示缺少的素材。[7]",
+        "changes": "新增保證武陵金裝精鍛成功的道具，透過重建活動取得。[7]",
+        "codes": "有效碼、獎勵、期限及入口待查。",
+        "entries": "新版指南可從遊戲內郵件或公告開啟。試用與領獎在活動中心，武器池在採購中心。[3][4][5]"
+      },
+      "sources": [
+        {
+          "title": "新版預載與維護",
+          "url": "https://endfield.gryphline.com/en-us/news/3835"
+        },
+        {
+          "title": "現行版本更新",
+          "url": "https://endfield.gryphline.com/en-us/news/9560"
+        },
+        {
+          "title": "新版指南獎勵",
+          "url": "https://endfield.gryphline.com/en-us/news/9569"
+        },
+        {
+          "title": "Argent Flow 尋訪",
+          "url": "https://endfield.gryphline.com/en-us/news/7012"
+        },
+        {
+          "title": "Lunar Calling 武器池",
+          "url": "https://endfield.gryphline.com/en-us/news/6178"
+        },
+        {
+          "title": "官方公告列表",
+          "url": "https://endfield.gryphline.com/en-us/news"
+        },
+        {
+          "title": "新版開發通訊",
+          "url": "https://endfield.gryphline.com/en-us/news/7011"
+        },
+        {
+          "title": "感謝禮",
+          "url": "https://endfield.gryphline.com/en-us/news/5205"
+        }
+      ]
+    },
+    {
+      "name": "崩壞：星穹鐵道",
+      "sections": {
+        "version": "現行 4.7 於 11/11 更新，至 12/23 06:00。4.8 維護時段待查。[1]",
+        "ending_events": "七日內截止活動待查。位面分裂至 12/7 03:59，解鎖位面飾品後可領雙倍掉落。[3]",
+        "banners": "11/11 更新後至 12/22 15:00，Aeon ★ Aha、銀狼 LV.999、火花、爻光及各自五星光錐 UP。四星角色艾絲妲、玲可、馭空及三款四星光錐同池。[2]",
+        "upcoming": "11/30 04:00 開啟新一期虛構敘事，至 1/11 03:59。[1]",
+        "login": "4.7 開拓等級達 4，累計簽到可領星軌專票 20。[1]",
+        "free_rewards": "4.7 開拓等級達 4 可自選黃泉、飲月或景元，另領服飾及金色同伴靈。完成 4.7 主線得疊影 5 四星光錐。4.8 更新後至 5.0 結束登入可領 Astra Yao 和升至 60 級的素材。[1][3]",
+        "materials": "新行跡素材 Ravenous Baby Tooth 可刷歷戰餘響 Moon of Indulgence，總量與其他材料待查。[4]",
+        "changes": "部分歷戰餘響降難，獎勵指南加入即時領取進度。[1]",
+        "codes": "有效碼與期限待查。官方兌換入口見來源。[5]",
+        "entries": "遊戲內活動頁領開幕禮與簽到，位面飾品加倍走模擬宇宙。[1][3]"
+      },
+      "sources": [
+        {
+          "title": "4.7 更新詳情",
+          "url": "https://www.hoyolab.com/article/47394097?reply=1"
+        },
+        {
+          "title": "4.7 上半躍遷",
+          "url": "https://www.hoyolab.com/article/47385253?reply=1"
+        },
+        {
+          "title": "官方社群公告",
+          "url": "https://www.hoyolab.com/accountcenter/postList?id=172534910"
+        },
+        {
+          "title": "4.7 新關卡",
+          "url": "https://www.hoyolab.com/article/47375599?reply=1"
+        },
+        {
+          "title": "官方兌換",
+          "url": "https://hsr.hoyoverse.com/gift"
+        }
+      ]
+    }
+  ]
+}
