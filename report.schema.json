@@ -48,18 +48,7 @@
           "sections": {
             "type": "object",
             "additionalProperties": false,
-            "required": [
-              "version",
-              "ending_events",
-              "banners",
-              "upcoming",
-              "login",
-              "free_rewards",
-              "materials",
-              "changes",
-              "codes",
-              "entries"
-            ],
+            "required": [],
             "properties": {
               "version": {
                 "type": "string",
@@ -115,7 +104,7 @@
           },
           "sources": {
             "type": "array",
-            "minItems": 1,
+            "minItems": 0,
             "maxItems": 30,
             "items": {
               "type": "object",
